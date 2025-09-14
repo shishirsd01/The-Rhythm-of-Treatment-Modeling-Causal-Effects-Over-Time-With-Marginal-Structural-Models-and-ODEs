@@ -1,2 +1,2 @@
 # MSM-ODE
-This project contains a code for MSM adjusted ODE equations for Type 1 diabetes data (Longitudinal data)
+This project contains a code for the paper - The Rhythm of Treatment: Modeling Causal Effects Over Time With Marginal Structural Models and ODEs
